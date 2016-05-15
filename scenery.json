@@ -1,0 +1,294 @@
+{
+  "AO-Station Cover": {
+      "displayName": "Station Cover",
+		  "category": "Station Covers",
+		  "model": "stationcover",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#16a085",
+          "color2": "#e74c3c",
+        }
+  },
+  "AO-Station Cover-Wing Coaster": {
+      "displayName": "Station Cover-Wing Coaster",
+		  "category": "Station Covers",
+		  "model": "stationcover-wing",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#16a085",
+          "color2": "#e74c3c",
+        }
+  },
+  "AO-Station Cover-Vertical Drop Coaster": {
+      "displayName": "Station Cover-Vertical Drop Coaster",
+		  "category": "Station Covers",
+		  "model": "stationcover-vertical",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#16a085",
+          "color2": "#e74c3c",
+        }
+  },
+  "AO-Station Cover-Small": {
+      "displayName": "Station Cover-Small",
+		  "category": "Station Covers",
+		  "model": "stationcover-small",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#16a085",
+          "color2": "#e74c3c",
+        }
+  },
+  "AO-Station Cover-Miniature Railway": {
+      "displayName": "Station Cover-Miniature Railway",
+		  "category": "Station Covers",
+		  "model": "stationcover-mr",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#16a085",
+          "color2": "#e74c3c",
+        }
+  },
+  "AO-Station Cover End": {
+      "displayName": "Station Cover End",
+		  "category": "Station Covers",
+		  "model": "stationcover-end",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#16a085",
+          "color2": "#e74c3c",
+        }
+  },
+  "AO-Station Cover End-Wing Coaster": {
+      "displayName": "Station Cover End-Wing Coaster",
+		  "category": "Station Covers",
+		  "model": "stationcover-end-wing",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#16a085",
+          "color2": "#e74c3c",
+        }
+  },
+  "AO-Station Cover End-Vertical Drop Coaster": {
+      "displayName": "Station Cover End-Vertical Drop Coaster",
+		  "category": "Station Covers",
+		  "model": "stationcover-end-vertical",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#16a085",
+          "color2": "#e74c3c",
+        }
+  },
+  "AO-Station Cover End-Small": {
+      "displayName": "Station Cover End-Small",
+		  "category": "Station Covers",
+		  "model": "stationcover-end-small",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#16a085",
+          "color2": "#e74c3c",
+        }
+  },
+  "AO-Station Cover End-Miniature Railway": {
+      "displayName": "Station Cover End-Miniature Railway",
+		  "category": "Station Covers",
+		  "model": "stationcover-end-mr",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#16a085",
+          "color2": "#e74c3c",
+        }
+  },
+  "AO-Station Fence": {
+      "displayName": "Station Fence",
+		  "category": "Station Covers",
+		  "model": "station-fence",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#16a085",
+        }
+  },
+  "AO-Station Fence-Small": {
+      "displayName": "Station Fence-Small",
+		  "category": "Station Covers",
+		  "model": "station-fence-small",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#16a085",
+        }
+  },
+  "AO-Station Fence-Miniature Railway": {
+      "displayName": "Station Fence-Miniature Railway",
+		  "category": "Station Covers",
+		  "model": "station-fence-mr",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#16a085",
+        }
+  },
+  "AO-Entrance-Exit Cover Stairs": {
+      "displayName": "Entrance-Exit Stairs",
+		  "category": "Station Covers",
+		  "model": "stationcover-stairs",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#2e8ece",
+          "color2": "#f39c12",
+        }
+  },
+  "AO-Entrance-Exit Fence": {
+      "displayName": "Entrance-Exit Fence",
+		  "category": "Station Covers",
+		  "model": "entrance-exit-fence",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#2e8ece",
+        }
+  },
+  "AO-Entrance-Exit Gate": {
+      "displayName": "Entrance-Exit Gate",
+		  "category": "Station Covers",
+		  "model": "entrance-exit-gate",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#2e8ece",
+        }
+  },
+  "AO-Entrance Booth Fence": {
+      "displayName": "Entrance Booth Fence",
+		  "category": "Station Covers",
+		  "model": "entrance-fence",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#2e8ece",
+        }
+  },
+  "AO-Path Fence": {
+      "displayName": "Path Fence",
+		  "category": "Station Covers",
+		  "model": "path-fence",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#8e44ad",
+        }
+  },
+  "AO-Path Fence-Stairs 1": {
+      "displayName": "Path Fence-Stairs 1",
+		  "category": "Station Covers",
+		  "model": "path-fence-stairs1",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#8e44ad",
+        }
+  },
+  "AO-Path Fence-Stairs 2": {
+      "displayName": "Path Fence-Stairs 2",
+		  "category": "Station Covers",
+		  "model": "path-fence-stairs2",
+		  "type": "deco",
+		  "price": 5.0,
+		  "gridSubdivision": 1.0,
+		  "snapCenter": true,
+      "heightDelta": 1.0,
+      "recolorable": true,
+        "recolorableOptions": {
+          "color1": "#8e44ad",
+        }
+  },
+}
+}

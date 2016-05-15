@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 37087066
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a1e415390ee0d221a08ba9d294931cf0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f47e5080155a0c3ac2e9ffbbc14e366d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/station-fence-small.obj
+- Assets/entrance-fence.obj
+- Assets/stationcover-small.obj
+- Assets/stationcover-end-wing.obj
+- Assets/stationcover-wing.obj
+- Assets/stationcover-end.obj
+- Assets/stationcover-vertical.obj
+- Assets/path-fence.obj
+- Assets/station-fence.obj
+- Assets/stationcover-end-mr.obj
+- Assets/path-fence-stairs1.obj
+- Assets/stationcover-stairs.obj
+- Assets/entrance-exit-fence.obj
+- Assets/station-fence-mr.obj
+- Assets/entrance-exit-gate.obj
+- Assets/stationcover-end-vertical.obj
+- Assets/stationcover-end-small.obj
+- Assets/path-fence-stairs2.obj
+- Assets/stationcover-mr.obj
+- Assets/stationcover.obj
+Dependencies: []

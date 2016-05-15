@@ -1,0 +1,7 @@
+{
+    "BaseDir": "",
+    "IsDevelopment": false,
+    "Name": "Station covers",
+    "Project": "Custom Scenery.csproj",
+	"AssetBundleDir": "assetbundle"
+}
